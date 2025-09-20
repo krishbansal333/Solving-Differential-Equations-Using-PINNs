@@ -1,4 +1,5 @@
-# Machine Learning with PyTorch
+# Solving-Differential-Equations-Using-PINNs
+My Project Under Paac IITR
 
 This project demonstrates a machine learning workflow using **PyTorch** and supporting libraries.  
 It covers dataset loading, preprocessing, model implementation, training, and visualization of results.
